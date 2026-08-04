@@ -1,1 +1,0 @@
-SQL Formatter & Beautifier: pipe-friendly command-line SQL formatter for PostgreSQL, MySQL, SQLite, and T-SQL, with configurable indentation and keyword case.
